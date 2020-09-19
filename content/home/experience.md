@@ -22,8 +22,8 @@ date_format = "Jan 2006"
   company = "DC Labs"
   company_url = "https://digitalcreativity.ac.uk/"
   location = "York, UK"
-  date_start = "2019-02-09"
-  date_end = "2019-29-10"
+  date_start = "2019-09-02"
+  date_end = "2019-10-29"
   description = "Lead developer and researcher on a computer vision project to deconstruct physical Lego models for creative analysis"
 
 [[experience]]
@@ -31,8 +31,8 @@ date_format = "Jan 2006"
   company = "IBM"
   company_url = "https://www.ibm.com/uk-en/products/planning-analytics"
   location = "York, UK"
-  date_start = "2018-02-07"
-  date_end = "2019-30-08"
+  date_start = "2018-07-02"
+  date_end = "2019-08-30"
   description = """Core development intern on IBM's international team working on their TM1 offering.
   Responsibilities include:
   
