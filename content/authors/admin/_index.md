@@ -1,7 +1,7 @@
 ---
 title: George Tattersall
 role: Professor of Artificial Intelligence
-avatar_filename: me.jpg
+avatar_filename: ""
 organizations:
   - name: Stanford University
     url: ""
