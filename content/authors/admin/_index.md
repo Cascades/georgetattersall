@@ -1,6 +1,6 @@
 ---
 title: George Tattersall
-role: Master Student in High-Performance Graphics and Games Engineering at UoL
+role: Master Student in High-Performance Graphics and Games Engineering
 avatar_filename: avatar.jpg
 organizations:
   - name: University of Leeds
