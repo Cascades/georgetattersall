@@ -17,35 +17,43 @@ date_format = "Jan 2006"
 #   `title`, `organization` and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "University of York"
+  organization_url = "https://www.york.ac.uk/"
+  title = "Best performance in Final Year Project for BEng route"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  certificate_url = ""
+  date_start = "2020-07"
   date_end = ""
-  description = ""
+  description = "Awarded for achieving the highest grades in ym final year project."
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
+  organization = "University of York"
+  organization_url = "https://www.york.ac.uk/"
+  title = "York Award Gold"
+  url = "https://www.york.ac.uk/students/work-volunteering-careers/skills/york-award/-gold/"
+  certificate_url = ""
+  date_start = "2020-05"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  description = "Awarded to me for my various committee positions throughout the university and the work I completed on my placement year."
 
+[[item]]
+  organization = "ACM SIGGRAPH"
+  organization_url = "https://www.acm.org/"
+  title = "ACM SIGGRAPH Member"
+  url = "https://www.siggraph.org/"
+  certificate_url = ""
+  date_start = "2020-05"
+  date_end = ""
+  description = "Member of the Association for Computing Machinery's Special Interest Group."
+
+[[item]]
+  organization = "University of York"
+  organization_url = "https://www.york.ac.uk/"
+  title = "York Award"
+  url = "https://www.york.ac.uk/students/work-volunteering-careers/skills/york-award/about/"
+  certificate_url = ""
+  date_start = "2018-09"
+  date_end = ""
+  description = "Awarded to me for my extra-curricular work at York."
 +++
