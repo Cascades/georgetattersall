@@ -1,12 +1,13 @@
 ---
+title: George Tattersall
+role: Professor of Artificial Intelligence
+avatar_filename: me.jpg
 organizations:
   - name: Stanford University
     url: ""
 superuser: true
 authors:
   - admin
-title: George Tattersall
-role: Professor of Artificial Intelligence
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
