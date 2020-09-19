@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "York, UK"
   date_start = "2019-02-09"
   date_end = "2019-29-10"
-  description = """Lead developer and researcher on a computer vision project to deconstruct physical Lego models for creative analysis"""
+  description = "Lead developer and researcher on a computer vision project to deconstruct physical Lego models for creative analysis"
 
 [[experience]]
   title = "Software Engineer"
