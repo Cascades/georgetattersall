@@ -1,6 +1,6 @@
 ---
 title: George Tattersall
-role: Master Student in High-Performance Graphics and Games Engineering
+role: Master's Student in High-Performance Graphics and Games Engineering
 avatar_filename: avatar.jpg
 organizations:
   - name: University of Leeds
@@ -40,3 +40,8 @@ user_groups:
   - Researchers
   - Visitors
 ---
+I am currently a master's student in High-Performance Graphics and Games Engineering at the University of Leeds. I have been interested in working on graphics engines since a young age since laying my hands on [my first videogame](https://en.wikipedia.org/wiki/Robots_(2005_video_game))!
+
+After my master's degree I will be looking for either PhD openings in computer graphics, or graduate jobs which will provide me exciting challenges and opportunities.
+
+In my spare time I enjoy martial arts, Japanese learning, and all kinds of media!
