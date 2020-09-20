@@ -27,6 +27,9 @@ social:
   - link: https://www.linkedin.com/feed/
     icon_pack: fab
     icon: linkedin
+  - link: https://orcid.org/0000-0003-0636-0157
+    icon_pack: ai
+    icon: orcid
 education:
   courses:
     - course: MSc High-Performance Graphics and Games Engineering
