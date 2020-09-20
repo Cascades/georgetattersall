@@ -20,13 +20,13 @@ social:
     link: "#contact"
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://twitter.com/cascadesssss
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/Cascades
+  - link: https://www.linkedin.com/feed/
+    icon_pack: fab
+    icon: LinkedIn
 education:
   courses:
     - course: MSc High-Performance Graphics and Games Engineering
