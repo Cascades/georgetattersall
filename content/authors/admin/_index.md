@@ -26,7 +26,7 @@ social:
     link: https://github.com/Cascades
   - link: https://www.linkedin.com/feed/
     icon_pack: fab
-    icon: LinkedIn
+    icon: linkedin
 education:
   courses:
     - course: MSc High-Performance Graphics and Games Engineering
