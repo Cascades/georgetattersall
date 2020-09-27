@@ -26,7 +26,7 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/Cascades
-  - link: https://www.linkedin.com/georgetattersall/
+  - link: https://www.linkedin.com/in/georgetattersall/
     icon_pack: fab
     icon: linkedin
   - link: https://orcid.org/0000-0003-0636-0157
