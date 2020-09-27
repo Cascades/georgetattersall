@@ -1,8 +1,6 @@
 ---
 title: George Tattersall
-role: "[Master's Student in High-Performance Graphics and Games
-  Engineering](https://courses.leeds.ac.uk/i070/high-performance-graphics-and-g\
-  ames-engineering-msc)"
+role: Master's Student in High-Performance Graphics and Games Engineering
 avatar_filename: avatar.jpg
 organizations:
   - name: University of Leeds
@@ -34,10 +32,14 @@ social:
     icon: orcid
 education:
   courses:
-    - course: MSc High-Performance Graphics and Games Engineering
+    - course: "[Master's Student in High-Performance Graphics and Games
+        Engineering](https://courses.leeds.ac.uk/i070/high-performance-graphics\
+        -and-games-engineering-msc)"
       institution: University of Leeds
       year: 2021
-    - course: BEng Computer Science (with a year in industry)
+    - course: "[BEng Computer Science (with a year in
+        industry)](https://www.york.ac.uk/study/undergraduate/courses/beng-bsc-\
+        computer-science-industry/)"
       institution: University of York
       year: 2020
 email: ""
