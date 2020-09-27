@@ -1,6 +1,8 @@
 ---
 title: George Tattersall
-role: Master's Student in High-Performance Graphics and Games Engineering
+role: "[Master's Student in High-Performance Graphics and Games
+  Engineering](https://courses.leeds.ac.uk/i070/high-performance-graphics-and-g\
+  ames-engineering-msc)"
 avatar_filename: avatar.jpg
 organizations:
   - name: University of Leeds
