@@ -49,4 +49,4 @@ I am currently a master's student in High-Performance Graphics and Games Enginee
 
 After my master's degree I will be looking for either PhD openings in computer graphics, or graduate jobs which will provide me with exciting challenges and opportunities.
 
-In my spare time I enjoy martial arts, Japanese learning, and all kinds of books, films and TV!
+In my spare time I enjoy martial arts, Japanese learning, and enjoying a variety of literature!
