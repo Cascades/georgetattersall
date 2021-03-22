@@ -195,10 +195,10 @@ collections:
           - {label: Description for screen readers, name: alt_text, widget: string, required: false}
           - {label: "Where's the focal point in the image? Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.", name: focal_point, widget: string, required: false, default: "Smart"}
           - {label: Thumbnail Only?, name: preview_only, widget: boolean, default: false}
-  - name: talks
-    label: Talks
-    label_singular: Talk
-    folder: 'content/talk'
+  - name: publications
+    label: Publications
+    label_singular: Publication
+    folder: 'content/publication'
     path: '{{slug}}/index'
     create: true  # Allow users to create new documents in this collection
     fields:  # The fields each document in this collection have
@@ -208,29 +208,9 @@ collections:
       - {label: "From", name: "date", widget: "datetime"}
       - {label: "To", name: "date_end", widget: "datetime", default: ""}
       - {label: "All day event?", name: "all_day", widget: "boolean", default: false}
-      - label: Links/Tickets
-        name: links
-        required: false
-        widget: list
-        fields:
-          - {label: Link, name: url, widget: string}
-          - {label: Link text, name: name, widget: string, required: false}
-          - label: Icon pack
-            name: icon_pack
-            widget: select
-            multiple: false
-            required: false
-            options:
-              - {label: "None", value: ""}
-              - {label: "Solid", value: "fas"}
-              - {label: "Regular", value: "far"}
-              - {label: "Brand", value: "fab"}
-              - {label: "Academic", value: "ai"}
-          - {label: "Icon (see https://sourcethemes.com/academic/docs/page-builder/#icons)", name: icon, widget: string, required: false}
       - {label: "Event", name: "event", widget: "string"}
       - {label: "Event link", name: "event_url", widget: "string"}
       - {label: "Publish this page on", name: "publishDate", widget: "datetime"}
-      - {label: "Markdown slides (reference a deck in 'content/slides/')", name: "slides", widget: "string", required: false}
       - label: "Draft"
         name: "draft"
         widget: "boolean"
