@@ -10,8 +10,7 @@ organizations:
 superuser: true
 authors:
   - admin
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include Computer Graphics, Computer Vision and C++.
 interests:
   - Computer Graphics
   - Computer vision
