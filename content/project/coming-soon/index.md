@@ -4,7 +4,7 @@ subtitle: Hopefully this Easter break
 date: 2021-03-22T05:26:58.309Z
 draft: false
 featured: false
-external_link: https://georgetattersall.me/projects/coming-soon
+external_link: https://georgetattersall.me/project/coming-soon/
 image:
   filename: featured
   focal_point: Smart
