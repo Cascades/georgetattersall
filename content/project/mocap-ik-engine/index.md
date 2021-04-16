@@ -28,4 +28,4 @@ The bulk of the development was making sure to get the Eigen calculations correc
 
 Anyway, the results can be seen in the video above. The input is a .bvh file (a mocap format), and at any frame the user can select nodes to be stretched out in a specified direction. The dampening variable is useful for when the target is out of reach as it reduces the effect of the algorithm on the output.
 
-If I were to improve on this I would most likely start with mouse picking, and my include some interpolation between new poses and old ones.
+If I were to improve on this I would most likely start with mouse picking, and may include some interpolation between new poses and old ones.
