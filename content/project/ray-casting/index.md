@@ -9,3 +9,16 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+<!--StartFragment-->
+
+{{< figure src="ray_image_album/two glass spheres.png" caption="A caption" >}}
+
+<!--EndFragment-->
+
+test
+
+<!--StartFragment-->
+
+{{< figure src="ray_image_album/cornell normal.png" caption="A caption" >}}
+
+<!--EndFragment-->
