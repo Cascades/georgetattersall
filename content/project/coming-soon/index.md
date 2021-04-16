@@ -15,7 +15,7 @@ I have been doing various projects since mid-last year, however have not had the
 I plan to do a write up on:
 
 * Homebrew Rasterizer
-* Homebrew Ray-caster
+* ~~[Homebrew Ray-caster](https://georgetattersall.me/project/ray-casting/)~~ ✔
 * ~~[Realtime IK solver for BVH input](https://georgetattersall.me/project/mocap-ik-engine/)~~ ✔
 * 2D SPH solver
 * Mesh decimation tool
