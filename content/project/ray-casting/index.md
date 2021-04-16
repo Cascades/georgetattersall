@@ -9,3 +9,12 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+<!--StartFragment-->
+
+{{< gallery album="ray_image_album" >}}
+
+<!--EndFragment-->
+
+
+
+test
