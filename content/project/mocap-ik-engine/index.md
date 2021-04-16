@@ -6,7 +6,7 @@ featured: false
 external_link: https://georgetattersall.me/project/mocap-ik-engine
 links: []
 image:
-  filename: featured
+  filename: ik.png
   focal_point: Smart
   preview_only: false
 ---
@@ -15,7 +15,3 @@ image:
 {{< video library="true" src="IK.mp4" controls="yes" >}}
 
 <!--EndFragment-->
-
-
-
-Test
