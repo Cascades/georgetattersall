@@ -16,7 +16,7 @@ I plan to do a write up on:
 
 * Homebrew Rasterizer
 * Homebrew Ray-caster
-* Realtime IK solver for BVH input
+* ~~[Realtime IK solver for BVH input](https://georgetattersall.me/project/mocap-ik-engine/)~~ ✔
 * 2D SPH solver
 * Mesh decimation tool
 * Mesh smoothing tool using subdivision surfaces
