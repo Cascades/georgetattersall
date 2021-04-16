@@ -35,6 +35,7 @@ During the course of the project I mainly worked everything else out myself from
 * Try using importance sampling to increase convergence speed
 * Develop some BxDF functions
 * Millions of other techniques to generally improve performance and quality
+* OH! And I really want to write a ray-tracer in CMake... I recon I'd have to be the first... maybe for good reason.
 
 But for now I'll end on a classic Cornell Box
 
