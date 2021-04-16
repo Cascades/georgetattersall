@@ -12,6 +12,6 @@ image:
 ---
 <!--StartFragment-->
 
-{{< video library="true" src="my_video.mp4" controls="yes" >}}
+{{< video library="true" src="IK.mp4" controls="yes" >}}
 
 <!--EndFragment-->
