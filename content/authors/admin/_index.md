@@ -31,6 +31,9 @@ social:
   - link: https://orcid.org/0000-0003-0636-0157
     icon_pack: ai
     icon: orcid
+  - link: https://gitlab.com/gedtattersall
+    icon_pack: fab
+    icon: gitlab
 education:
   courses:
     - course: MSc High-Performance Graphics and Games Engineering
