@@ -4,7 +4,7 @@ subtitle: https://ukiyo-emap.com/
 date: 2021-04-17T23:45:09.436Z
 draft: false
 featured: false
-external_link: https://georgetattersall.me/project/a-japanese-journey-(with-some-webdev)
+external_link: https://georgetattersall.me/project/a-japanese-journey-with-some-webdev
 image:
   filename: featured
   focal_point: Smart
