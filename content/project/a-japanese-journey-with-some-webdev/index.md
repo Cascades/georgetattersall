@@ -34,10 +34,6 @@ Some of the results of the site are below, showing a the aforementioned Tōkaid�
 
 {{< figure src="map1.png" caption="Tōkaidō" >}}
 
-<!--EndFragment-->
-
-<!--StartFragment-->
-
 {{< figure src="map2.png" caption="Edo, modern day Tokyo" >}}
 
 <!--EndFragment-->
