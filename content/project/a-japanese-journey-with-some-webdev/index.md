@@ -32,7 +32,7 @@ Some of the results of the site are below, showing a the aforementioned Tōkaid�
 
 <!--StartFragment-->
 
-{{< figure src="map1png" caption="Tōkaidō" >}}
+{{< figure src="map1.png" caption="Tōkaidō" >}}
 
 <!--EndFragment-->
 
