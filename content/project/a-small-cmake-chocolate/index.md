@@ -7,7 +7,7 @@ external_link: https://georgetattersall.me/project/a-small-cmake-chocolate/
 image:
   filename: cmake_logo_slider.png
   focal_point: Smart
-  preview_only: false
+  preview_only: true
 ---
 I mentioned in a [ray-casting post I did a bit ago](https://georgetattersall.me/project/ray-casting/) that a fun future project would be to try and make a path tracer in CMake... yes, the build system generator...
 
