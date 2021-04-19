@@ -22,4 +22,6 @@ I plan to do a write up on:
 * Mesh smoothing tool using subdivision surfaces
 * Potentially a few others which I'm undecided on
 
+  * ~~[Cloth Simulation](https://georgetattersall.me/project/spring-mass-system/)~~ ✔
+
 And this post should hold me accountable!
