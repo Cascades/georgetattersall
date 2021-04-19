@@ -5,7 +5,7 @@ draft: false
 featured: false
 external_link: https://georgetattersall.me/project/a-small-cmake-chocolate/
 image:
-  filename: featured
+  filename: cmake_logo_slider.png
   focal_point: Smart
   preview_only: false
 ---
