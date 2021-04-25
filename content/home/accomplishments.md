@@ -18,6 +18,16 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[item]]
+  organization = "University of Leeds"
+  organization_url = "http://www.leeds.ac.uk/"
+  title = "Leeds Masters Fee Scholar"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-09-23"
+  date_end = "2021-08-09"
+  description = "Full Scholarship for my masters course. Scholarship was available to anyone with a Bachelor's degree across all courses. Eight scholars chosen uni-wide."
+
+[[item]]
   organization = "University of York"
   organization_url = "https://www.york.ac.uk/"
   title = "Best performance in Final Year Project for BEng route"
