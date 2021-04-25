@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "University of Leeds"
   organization_url = "http://www.leeds.ac.uk/"
-  title = "Leeds Masters Fee Scholar"
+  title = "Leeds Masters Fees Scholar"
   url = ""
   certificate_url = ""
   date_start = "2020-09-23"
